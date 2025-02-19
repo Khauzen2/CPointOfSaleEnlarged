@@ -15,7 +15,7 @@ void main() {
 			system("cls");
 			printf("\n\n\t\t\t|>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<|\n");
 			printf("\t\t\t|********************************************************|\n");
-			printf("\t\t\t|>>>>>>|         WELCOME TO OF'BURG KOTAS         |<<<<<<|\n");
+			printf("\t\t\t|>>>>>>|         WELCOME TO FARMTON KOTAS         |<<<<<<|\n");
 			printf("\t\t\t|********************************************************|\n");
 			printf("\t\t\t|>>>>>>|      Please...Select from the Menu       |<<<<<<|\n");
 			printf("\t\t\t|********************************************************|\n");
@@ -137,7 +137,7 @@ void main() {
 	
 	system("cls");
 	printf("\n\n\t\t\t|******************************************************************************|\n");
-	printf("\t\t\t|>>>>>>| Thank you for shopping at OF'Burg Kotas...Please com again!!!   <<<<<<|\n");
+	printf("\t\t\t|>>>>>>| Thank you for shopping at FARMTON Kotas...Please come again!!!   <<<<<<|\n");
 	printf("\t\t\t|******************************************************************************|\n");
 	getch();
 	
