@@ -137,7 +137,7 @@ void main() {
 	
 	system("cls");
 	printf("\n\n\t\t\t|******************************************************************************|\n");
-	printf("\t\t\t|>>>>>>| Thank you for shopping at FARMTON Kotas...Please come again!!!   <<<<<<|\n");
+	printf("\t\t\t|>>>>>>| Thank you for shopping at FARMTON Kotas...Please come again.   <<<<<<|\n");
 	printf("\t\t\t|******************************************************************************|\n");
 	getch();
 	
