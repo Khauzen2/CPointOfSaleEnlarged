@@ -38,9 +38,10 @@ void main() {
 			printf("\t|>>>>>>| [6]  |>>>>>>| Mince, Potato, Leotoana and Atchar               |<<<<<<| R20.00      |<<<<<<|\n");
 			printf("\t|>>>>>>| [7]  |>>>>>>| Mince, Potato, Leotoana, Palony and Atchar       |<<<<<<| R25.00      |<<<<<<|\n");
 			printf("\t|>>>>>>| [8]  |>>>>>>| Mince, Potato, Palony, Snoekfish and Atchar      |<<<<<<| R30.00      |<<<<<<|\n");
-			printf("\t|>>>>>>| [9]  |>>>>>>| Kota Chicken Stew and Atchar                     |<<<<<<| R30.00      |<<<<<<|\n");
+			printf("\t|>>>>>>| [9]  |>>>>>>| Kota Wors                                        |<<<<<<| R30.00      |<<<<<<|\n");
+			printf("\t|>>>>>>| [11] |>>>>>>| Kota Chicken Stew and Atchar                     |<<<<<<| R30.00      |<<<<<<|\n");
 			printf("\t|>>>>>>| [10] |>>>>>>| Kota Beef Stew and Atchar                        |<<<<<<| R40.00      |<<<<<<|\n");
-			printf("\t|>>>>>>| [11] |>>>>>>| Kota taco                                        |<<<<<<| R45.00      |<<<<<<|\n");
+			printf("\t|>>>>>>| [11] |>>>>>>| Kota Taco                                        |<<<<<<| R45.00      |<<<<<<|\n");
 			printf("\t|>>>>>>| [12] |>>>>>>| Kota Pizza                                       |<<<<<<| R50.00      |<<<<<<|\n");
 			printf("\t|***************************************************************************************************|\n");
 			printf("\t|******************************************************| Atchar and Sources are optional |**********|\n");
