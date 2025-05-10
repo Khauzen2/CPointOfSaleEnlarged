@@ -97,7 +97,7 @@ void main() {
 	}while(conti == 'y' || conti == 'Y');
 	
 	shopTotal = shopTotal + totalAmount;
-	printf("The shop total should be %.2f in the till", shopTotal);
+	printf("The shop total should be %.2f in the till.", shopTotal);
 	printf("Would you like to bank the cash?(Y/N)");
 	scanf("%s", &conti);
 	if(conti == 'y' || conti == 'Y')
@@ -105,26 +105,26 @@ void main() {
 		banking +banking - shopTotal;
 		system("cls");
 		printf("Banking so far %.2f", banking);
-		printf("Enter the Coins and Notes accordingly to balance banking\n");
-		printf("Enter 10 cents amount\n");
+		printf("Enter the Coins and Notes accordingly to balance banking.\n");
+		printf("Enter 10 cents amount.\n");
 		scanf("%d", &qty);
 		coin1+coin1*qty;
-		printf("Enter 20 cents amount\n");
+		printf("Enter 20 cents amount.\n");
 		scanf("%f", &qty);
 		coin2+coin2*qty;
-		printf("Enter 50 cents amount\n");
+		printf("Enter 50 cents amount.\n");
 		scanf("%f", &qty);
 		coin3+coin3*qty;
-		printf("Enter R1.00 amount\n");
+		printf("Enter R1.00 amount.\n");
 		scanf("%f", &qty);
 		coin4+coin4*qty;
-		printf("Enter R2.00 amount\n");
+		printf("Enter R2.00 amount.\n");
 		scanf("%f", &qty);
 		coin5+coin5*qty;
-		printf("Enter R5.00 amount\n");
+		printf("Enter R5.00 amount.\n");
 		scanf("%f", &qty);
 		coin6+coin6*qty;
-		printf("Enter R10.00 amount\n");
+		printf("Enter R10.00 amount.\n");
 		scanf("%f", &qty);
 		note1+note1*qty;
 		banking = coin1+coin2+coin3+coin4+coin5+coin5+note1;
